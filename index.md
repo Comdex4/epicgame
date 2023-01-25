@@ -118,6 +118,6 @@
   <img src="irescape.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://scratch.mit.edu/projects/69090646/fullscreen">
-  <img src="tt.jpg" alt="Logo" style="width: 200px; height: 200px;" />
+  <img src="tt.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 
