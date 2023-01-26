@@ -123,7 +123,8 @@
 <a href="https://comdex4.github.io/Slope-Game/">
   <img src="slope.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://comdex4.github.io/3D-chess/">
-  <img src="3dchess.jpg" alt="Logo" style="width: 200px; height: 200px;" />
+<a href="https://purepro4561.github.io/worlds-hardest-game-2/">
+  <img src="whg2.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+
 
