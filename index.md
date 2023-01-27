@@ -11,9 +11,6 @@
 <a href="https://amazing-math.github.io/Projects/minecraft/index.html">
   <img src="logo14.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://math-world.cyclic.app/">
-  <img src="logo24.JPG" alt="Logo" style="width: 200px; height: 200px;" />
-</a>
 <a href="DriveMad">
   <img src="logo31.JPG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
