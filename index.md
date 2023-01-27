@@ -8,6 +8,9 @@
 
 
 
+<a href="https://comdex4.github.io/Idle-Breakout/">
+  <img src="idlebreak.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
 <a href="https://comdex4.github.io/Slope-Game/">
   <img src="slope.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
