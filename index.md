@@ -8,6 +8,9 @@
 
 
 
+<a href="https://comdex4.github.io/Slope-Game/">
+  <img src="slope.jpg" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
 <a href="https://comdex4.github.io/Paperio2/">
   <img src="paperio.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
@@ -46,9 +49,6 @@
 </a>
 <a href="https://scratch.mit.edu/projects/69090646/fullscreen">
   <img src="tt.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
-</a>
-<a href="https://comdex4.github.io/Slope-Game/">
-  <img src="slope.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://purepro4561.github.io/worlds-hardest-game-2/">
   <img src="whg2.jpg" alt="Logo" style="width: 200px; height: 200px;" />
