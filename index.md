@@ -59,5 +59,6 @@
 <a href="https://purepro4561.github.io/worlds-hardest-game-2/">
   <img src="whg2.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-
-
+<a href="https://arkshocer.github.io/sm64/">
+  <img src="sm64.jpg" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
